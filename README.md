@@ -14,7 +14,8 @@ First import the libraries which we will going to use and Import the dataset and
 
 ## Neural Network Model
 
-![AI_BRAIN](/deepFCN.jpg)
+![image](https://github.com/SABARI005/basic-nn-model/assets/118660461/414b5b8e-ff25-42e2-9970-e368e8cdd3a6)
+
 
 ## DESIGN STEPS
 
